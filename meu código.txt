@@ -1,0 +1,12 @@
+Aprendendo a trabalhar com o git
+=> para verificar o status do git
+(git status)
+
+=> Para adicionar um arquivo no controle de versão
+(git add "nome do arquivo.tipo").
+
+=> Para adicionar todo os asquirvos no controle
+(git add "espaço e ." (Botão de espço e um .)
+
+=> Para dar um commit
+(git commit -m "Mensagem do que foi modificado na versão")
